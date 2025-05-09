@@ -9,11 +9,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 (i) To find the L and U matrix
 ## Algorithm
-
-1. ### Step 1: Import NumPy and the LU decomposition function from SciPy.
-2. ### Step 2: Step 2: Input the square matrix A.
-3. ### Step 3: Step 3: Use `lu(A)` to get the L and U matrices (and permutation matrix P).
-4. ### Step 4: Print the L and U matrices.
+### Step 1: Start the process.
+### Step 2: Input a square matrix A.
+### Step 3: Perform LU Decomposition to split A into matrices L (Lower triangular) and U (Upper triangular) using a suitable method.
+### Step 4: Extract and display matrices L and U.
+### Step 5: End the process.
 
 ## Program:
 ```
